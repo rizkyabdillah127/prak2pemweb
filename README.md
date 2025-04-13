@@ -1,4 +1,4 @@
-# 🧭 Personal Dashboard App
+![image](https://github.com/user-attachments/assets/00270801-c0ff-40bc-a76f-4f2d6e6b3b87)# 🧭 Personal Dashboard App
 
 Aplikasi ini adalah **personal dashboard sederhana** yang menampilkan informasi harian seperti:
 - Catatan pribadi
@@ -16,8 +16,8 @@ Aplikasi ini adalah **personal dashboard sederhana** yang menampilkan informasi 
 
 ## 🖼️ Screenshot Aplikasi
 
-![Tampilan Aplikasi](./screenshot.png)  
-*(Ganti dengan nama file screenshot hasil aplikasi kamu)*
+![Tampilan Aplikasi](![Uploading image.png]()
+)  
 
 ---
 
