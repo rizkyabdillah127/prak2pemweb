@@ -1,0 +1,79 @@
+/* Reset dasar */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Container utama */
+.container {
+  background-color: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 30px;
+  width: 100%;
+  max-width: 600px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* Judul */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 26px;
+  color: #00eaff;
+}
+
+/* Input dan tombol */
+textarea,
+input[type="text"] {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0 20px;
+  border: none;
+  border-radius: 8px;
+  background: #1e293b;
+  color: #fff;
+  font-size: 16px;
+  resize: none;
+}
+
+button {
+  background: #00eaff;
+  color: #000;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  width: 100%;
+  transition: all 0.3s ease;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background: #00bcd4;
+  transform: scale(1.03);
+}
+
+/* Daftar catatan dan hasil cuaca */
+#daftarCatatan p,
+#cuaca p {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  border-left: 4px solid #00eaff;
+  margin-bottom: 10px;
+  border-radius: 6px;
+}
