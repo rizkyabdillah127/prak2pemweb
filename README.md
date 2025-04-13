@@ -1,3 +1,7 @@
+--
+#screenshot hasil
+--
+
 ![image](https://github.com/user-attachments/assets/00270801-c0ff-40bc-a76f-4f2d6e6b3b87)# 🧭 Personal Dashboard App
 
 Aplikasi ini adalah **personal dashboard sederhana** yang menampilkan informasi harian seperti:
@@ -12,11 +16,7 @@ Aplikasi ini adalah **personal dashboard sederhana** yang menampilkan informasi 
 - Tampilkan cuaca terkini berdasarkan input kota
 - Antarmuka interaktif & responsif
 
----
-
-## 🖼️ Screenshot Aplikasi
-
-![Tampilan Aplikasi](!Screenshot 2025-04-13 215541.png)  
+--
 
 ---
 
