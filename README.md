@@ -16,8 +16,7 @@ Aplikasi ini adalah **personal dashboard sederhana** yang menampilkan informasi 
 
 ## 🖼️ Screenshot Aplikasi
 
-![Tampilan Aplikasi](!Screenshot 2025-04-13 215541.png()
-)  
+![Tampilan Aplikasi](!Screenshot 2025-04-13 215541.png)  
 
 ---
 
